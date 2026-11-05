@@ -1,0 +1,16 @@
+{
+  "repository": "module-module-liberu-revenue-and-care-orchestration-5c59bca7-dart-mobile",
+  "capabilityKey": "liberusoftware/module-liberu-revenue-and-care-orchestration",
+  "presentation": "dart-mobile",
+  "package": "module_module_liberu_revenue_and_care_orchestration_5c59bca7_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/billing/nextjs/liberu-revenue-and-care-orchestration.md",
+  "presentationPlan": "projects/billing/features/liberu-revenue-and-care-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing",
+    "genealogy"
+  ]
+}
